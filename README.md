@@ -16,7 +16,7 @@ Extra: added some type hints
 
 ## Examples
 <p align='center'>
-    <img width=400 height=519 src=https://github.com/dcribb19/festive_500_2020/blob/master/examples/report_12_26.png> <img src=https://github.com/dcribb19/festive_500_2020/blob/master/examples/report_01_04.png width=400 height=513>
+    <img width=400 height=520 src=https://github.com/dcribb19/festive_500_2020/blob/main/examples/report_12_26.png> <img src=https://github.com/dcribb19/festive_500_2020/blob/main/examples/report_01_04.png width=400 height=520>
 </p>
 
 ## Technologies
@@ -32,12 +32,12 @@ python ride_gui.py
 ```
 1. GUI will display.  
 <p align='center'>
-    <img width=500 height=190 src=https://github.com/dcribb19/festive_500_2020/blob/master/examples/gui.png>
+    <img width=500 height=190 src=https://github.com/dcribb19/festive_500_2020/blob/main/examples/gui.png>
 </p>
 
 2. ... button will bring up calendar in order to select date.  
 <p align='center'>
-    <img width=500 height=262 src=https://github.com/dcribb19/festive_500_2020/blob/master/examples/gui_calendar.gif>
+    <img width=500 height=262 src=https://github.com/dcribb19/festive_500_2020/blob/main/examples/gui_calendar.gif>
 </p>  
 
 3. Enter kilometers
